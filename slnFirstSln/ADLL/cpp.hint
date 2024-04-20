@@ -1,0 +1,2 @@
+#define ADLL_API __declspec(dllexport)
+#define ADLL_API __declspec(dllimport)

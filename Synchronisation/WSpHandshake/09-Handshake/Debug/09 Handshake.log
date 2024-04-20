@@ -1,0 +1,5 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Handshake.cpp
+D:\OS2223\Synchronisation\WSpHandshake\CmnHdr.h(225,4): warning C4996: 'GetVersionExA': was declared deprecated
+D:\OS2223\Synchronisation\WSpHandshake\CmnHdr.h(235,4): warning C4996: 'GetVersionExA': was declared deprecated
+  09 Handshake.vcxproj -> D:\OS2223\Synchronisation\WSpHandshake\09-Handshake\Debug\09 Handshake.exe

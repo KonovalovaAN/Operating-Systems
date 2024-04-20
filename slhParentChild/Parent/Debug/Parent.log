@@ -1,0 +1,3 @@
+﻿  Parent.cpp
+D:\OS2223\slhParentChild\Parent\Parent.cpp(75,12): warning C4477: 'printf' : format string '%#10x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'HANDLE'
+  Parent.vcxproj -> D:\OS2223\slhParentChild\Debug\Parent.exe

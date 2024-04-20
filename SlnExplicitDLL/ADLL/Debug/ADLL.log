@@ -1,0 +1,6 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ADLL.cpp
+D:\study\OS2223\SlnExplicitDLL\ADLL\ADLL.cpp(74,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+ADLL.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library D:\study\OS2223\SlnExplicitDLL\Debug\ADLL.lib and object D:\study\OS2223\SlnExplicitDLL\Debug\ADLL.exp
+  ADLL.vcxproj -> D:\study\OS2223\SlnExplicitDLL\Debug\ADLL.dll

@@ -1,0 +1,6 @@
+﻿  First.cpp
+D:\study\OS 22 23\slnFirstSln\First\First.cpp(57,12): warning C4477: "printf": в строке форматирования "%08x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "HMODULE"
+D:\study\OS 22 23\slnFirstSln\First\First.cpp(61,12): warning C4477: "printf": в строке форматирования "%08x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "HMODULE"
+D:\study\OS 22 23\slnFirstSln\First\First.cpp(64,12): warning C4477: "printf": в строке форматирования "%x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "HMODULE"
+D:\study\OS 22 23\slnFirstSln\First\First.cpp(67,12): warning C4477: "printf": в строке форматирования "%08x" требуется аргумент типа "unsigned int", но вариативный аргумент "1" имеет тип "HMODULE"
+  First.vcxproj -> D:\study\OS 22 23\slnFirstSln\Debug\First.exe

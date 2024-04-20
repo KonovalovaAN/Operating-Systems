@@ -1,0 +1,13 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  DoPipeLine.cpp
+D:\OS2223\slnPipeLine\DoPipeLine\DoPipeLine.cpp(35,29): warning C4473: 'swscanf' : not enough arguments passed for format string
+D:\OS2223\slnPipeLine\DoPipeLine\DoPipeLine.cpp(35,29): message : placeholders and their parameters expect 10 variadic arguments, but 8 were provided
+D:\OS2223\slnPipeLine\DoPipeLine\DoPipeLine.cpp(35,29): message : the missing variadic argument 9 is required by format string '%c'
+D:\OS2223\slnPipeLine\DoPipeLine\DoPipeLine.cpp(35,13): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OS2223\slnPipeLine\DoPipeLine\DoPipeLine.cpp(82,3): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OS2223\slnPipeLine\DoPipeLine\DoPipeLine.cpp(83,3): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\OS2223\slnPipeLine\DoPipeLine\DoPipeLine.cpp(32,10): warning C4101: 'streamOut': unreferenced local variable
+DoPipeLine.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DoPipeLine.vcxproj -> D:\OS2223\slnPipeLine\Debug\DoPipeLine.exe
